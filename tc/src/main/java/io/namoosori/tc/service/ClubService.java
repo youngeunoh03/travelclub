@@ -2,7 +2,6 @@ package io.namoosori.tc.service;
 
 import io.namoosori.tc.entity.club.TravelClub;
 import io.namoosori.tc.service.dto.TravelClubDto;
-import io.namoosori.tc.shared.NameValueList;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

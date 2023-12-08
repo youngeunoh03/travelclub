@@ -2,8 +2,6 @@ package io.namoosori.tc.entity.club;
 
 import io.namoosori.tc.entity.BaseTimeEntity;
 import io.namoosori.tc.service.dto.TravelClubDto;
-import io.namoosori.tc.shared.NameValue;
-import io.namoosori.tc.shared.NameValueList;
 import io.namoosori.tc.util.DateUtil;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Size;

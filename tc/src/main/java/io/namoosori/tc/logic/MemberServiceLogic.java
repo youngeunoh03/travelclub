@@ -6,7 +6,6 @@ import io.namoosori.tc.entity.club.TravelClub;
 import io.namoosori.tc.service.MemberService;
 import io.namoosori.tc.service.dto.MemberDto;
 import io.namoosori.tc.service.dto.MembershipDto;
-import io.namoosori.tc.shared.NameValueList;
 import io.namoosori.tc.store.repository.ClubRepository;
 import io.namoosori.tc.store.repository.MemberRepository;
 import io.namoosori.tc.store.repository.MembershipRepository;

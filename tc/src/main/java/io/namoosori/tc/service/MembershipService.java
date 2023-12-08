@@ -2,7 +2,6 @@ package io.namoosori.tc.service;
 
 import io.namoosori.tc.entity.club.ClubMembership;
 import io.namoosori.tc.service.dto.MembershipDto;
-import io.namoosori.tc.shared.NameValueList;
 import org.modelmapper.internal.util.Members;
 import org.springframework.stereotype.Service;
 

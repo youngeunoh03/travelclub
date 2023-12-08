@@ -3,7 +3,6 @@ package io.namoosori.tc.logic;
 import io.namoosori.tc.entity.club.TravelClub;
 import io.namoosori.tc.service.ClubService;
 import io.namoosori.tc.service.dto.TravelClubDto;
-import io.namoosori.tc.shared.NameValueList;
 import io.namoosori.tc.store.repository.ClubRepository;
 import io.namoosori.tc.utility.NoSuchClubException;
 import org.springframework.stereotype.Service;
